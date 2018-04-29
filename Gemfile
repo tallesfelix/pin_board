@@ -9,6 +9,7 @@ gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'simple_form'
 gem 'devise'
+gem "paperclip", "~> 6.0.0"
 # Use mysql as the database for Active Record
 gem 'mysql2', '>= 0.4.4', '< 0.6.0'
 # Use Puma as the app server
